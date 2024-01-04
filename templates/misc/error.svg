@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080"
+    height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+    <defs>
+    </defs>
+    <g transform="matrix(1 0 0 1 540 540)" id="88d154d1-7b7d-491c-b160-56634897135e">
+    </g>
+    <g transform="matrix(1 0 0 1 540 540)" id="68e077f3-61fc-4dd3-ba1d-a4b5425c3c58">
+        <rect
+            style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;"
+            vector-effect="non-scaling-stroke" x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+    </g>
+    <g transform="matrix(1 0 0 1 540 540)" style="" id="c789286f-f308-411e-8ac0-1bb39e11cc35">
+        <rect fill="#C91010" x="-64.6" y="-17.51" width="129.21" height="35.03" />
+        <text xml:space="preserve" font-family="Calibri" font-size="31" font-style="normal" font-weight="900"
+            style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;">
+            <tspan x="-30.18" y="9.74">ERR</tspan>
+        </text>
+    </g>
+</svg>
